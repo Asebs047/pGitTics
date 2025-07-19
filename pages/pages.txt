@@ -1,0 +1,7 @@
+Esta es la rama ft/control.
+
+Aquí se trabaja una nueva funcionalidad del proyecto.
+
+Autor: [Tu Nombre o Usuario de GitHub]
+Fecha: [Puedes poner la fecha de hoy]
+xdddd
