@@ -1,0 +1,8 @@
+create database DBCommits;
+use DBCommits;
+
+create table Empleados(
+nombre varchar (100) not null,
+apellido varchar (100) not null,
+correo varchar (50)not null
+);
